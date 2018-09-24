@@ -1,0 +1,26 @@
+body {
+	background-color: #FFFFFF;
+	/*the color for the grey is #58585A
+	  the color for the orange is #F1592A*/
+}
+
+a:hover {
+	color: #32F9FF;
+}
+
+p {
+    font-size: 1.1em;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding-left: 1.25em;
+    padding-bottom: 1.25em;
+    padding-top: 1.25em;
+    text-decoration: none;
+}
